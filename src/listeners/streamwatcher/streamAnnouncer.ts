@@ -55,6 +55,8 @@ const mmbnGameTwitchIds = [
   '172137957', // Ryūsei no Rockman: Denpa Henkan! On Air!
   '556915707', // Rockman EXE Phantom of Network
   '2126164907', // Rockman EXE Legend of Network
+  '1490943277', // Mega Man Battle Network 5: Patch Card - Dominerd
+  '425135421',  // MEGA MAN STAR FORCE: Legacy Collection
 ];
 
 const speedrunTwitchTags = new Set(['speedrun', 'speedruns', 'rta']);
