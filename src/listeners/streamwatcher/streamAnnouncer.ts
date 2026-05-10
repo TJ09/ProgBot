@@ -53,6 +53,8 @@ const mmbnGameTwitchIds = [
   '19495', // Mega Man Star Force 3: Red Joker
   '71553216', // Mega Man Star Force 3: Black Ace
   '172137957', // Ryūsei no Rockman: Denpa Henkan! On Air!
+  '556915707', // Rockman EXE Phantom of Network
+  '2126164907', // Rockman EXE Legend of Network
 ];
 
 const speedrunTwitchTags = new Set(['speedrun', 'speedruns', 'rta']);
